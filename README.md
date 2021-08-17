@@ -1,4 +1,4 @@
-## Hello, i'm Sty13 and i love to code!
+## Hello, i'm Sty13 feel free to explore my profile!
  <div>
   <a href="https://github.com/Sty13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sty13&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
