@@ -1,7 +1,7 @@
-## Hello, I am Sty13 and I'm 18! 
-## I love to code and experiment with new things and stuff.
+<h1>Hello, I am Sty13 and I'm 18!<h1> 
+ <p>I love to code and experiment with new things and stuff.</p>
  <div>
- <h1>Status:</h1>
+ <h2>Status:</h2>
   <a href="https://github.com/Sty13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sty13&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sty13&layout=compact&langs_count=16&theme=react"/>
