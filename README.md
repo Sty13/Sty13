@@ -1,16 +1,16 @@
 ## Hello, I am Sty13 and I'm 18! 
 ## I love to code and experiment with new things and stuff.
  <div>
+ <h1>Status:</h1>
   <a href="https://github.com/Sty13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sty13&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sty13&layout=compact&langs_count=16&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
- <h1>Languages that I use</h1>
+ <h2>Languages that I use</h2>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <h1>Languages that I'm learning</h1>
+ <h2>Languages that I'm learning</h2>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
