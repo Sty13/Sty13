@@ -1,5 +1,5 @@
 <h1>Hello, I am Sty13 and I'm 18!<h1> 
- <p>I love to code and experiment with new things and stuff.</p>
+I love to code and experiment with new things and stuff.
  <div>
  <h2>Status:</h2>
   <a href="https://github.com/Sty13">
