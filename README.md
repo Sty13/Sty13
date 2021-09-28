@@ -22,5 +22,6 @@ I love to code and experiment with new programming languages and old too.
      <a href="https://www.twitch.tv/Sty13_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://sty13.tk/discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/willian-pereira-9b6b2321a/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-3167B1?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   ![Snake animation](https://github.com/Sty13/Sty13/blob/output/github-contribution-grid-snake.svg)
 </div>
-  ![Snake animation](https://github.com/Sty13/Sty13/blob/output/github-contribution-grid-snake.svg)
+
