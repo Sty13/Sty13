@@ -1,5 +1,5 @@
-<h1>Hello, I am Sty13!<h1> 
- <p>I love to code and experiment with new and old programming languages.</p>
+<img src="https://camo.githubusercontent.com/20ac004ca0c692d15a422712fcce36513bdf00fea1b538befb405e7f275bc21c/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d3536643336342673697a653d3330267643656e7465723d74727565266c696e65733d2546302539462539312538422b48492b5448455245212b">
+ <p>I'm Sty13 and I love to code and experiment with new and old programming languages.</p>
  <div>
  <a>Status:</a><br>
   <a href="https://github.com/Sty13">
