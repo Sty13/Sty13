@@ -7,10 +7,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sty13&layout=compact&langs_count=16&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
- <a>Languages that I use:</a><br>
+ <a>What I use:</a><br>
   <img align="center" alt="Sty-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sty-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br><br>
- <a>Languages that I'm learning:</a><br>
+ <a>What I'm learning:</a><br>
   <img align="center" alt="Sty-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Sty-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
