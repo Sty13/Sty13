@@ -15,7 +15,7 @@
 
 <p align="left">
   💌 You can contact me via: ⤵️
-</p>
+</p> 
 <p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:contato.Sty13@gmail.com" /></a>
