@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>HTML, CSS, JS, Python & a bit of C++</strong>
+  🦄 Languages: <strong>Java, Javascript, Python, C++ & Typescript</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VSCode, Git & Github, Insomnia, Figma And Tailwind</strong>
+  💼 Tools: <strong>VSCode, Git & Github, Insomnia, Figma, Photoshop and Tailwind</strong>
 </p>
 
 <p align="left">
