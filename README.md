@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hello, I'm Willian and I'm a <strong>Front-End Developer</strong>.<br>
-  I'm currently looking for a job and Studying Back-End developer at @UnoparBr
+  I'm currently working on "Platforms" at @apptiviumTech
 </p>
 
 <p align="left">
